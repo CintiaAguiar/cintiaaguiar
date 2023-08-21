@@ -1,8 +1,8 @@
 ### Oie, muito prazer, sou a Cintia Aguiar!!
 
-- 🔭 Estou em transição de carreira, atualmente sou coordenadora pedagógica e apaixonado por Harry Potter
+- 🔭 Estou em transição de carreira, atualmente sou coordenadora pedagógica
 - 🌱 Estudando Data Analytics e Python.
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 </div>
   <a href="https://beacons.ai/cintiaguiar">
@@ -20,4 +20,4 @@
   <a href = "mailto:profcintia.aguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cintiaaguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ##tech ##mulherestambémcodam
+  ##tech #woman ##mulherestambémcodam 
