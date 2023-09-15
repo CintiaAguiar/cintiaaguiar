@@ -1,12 +1,14 @@
 ### Oie, muito prazer, sou a Cintia Aguiar!!
 
-- 🔭 Estou em transição de carreira, atualmente sou coordenadora pedagógica e apaixonada por Harry Potter.
+- 🔭 Estou em transição de carreira, atualmente sou coordenadora pedagógica.
 - 🌱 Estudando Data Analytics e Python.
 - 😄 Pronomes: ela/dela
 
 </div>
-  <a href="https://beacons.ai/cintiaguiar">
+  <a href="https://beacons.ai/CintiaAguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintiaaguiar&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
