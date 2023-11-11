@@ -4,10 +4,6 @@
 - 🌱 Estudando Data Analytics e Python.
 - 😄 Pronomes: ela/dela
 
-</div>
-  <a href="https://beacons.ai/CintiaAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintiaaguiar&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
     
 <div style="display: inline_block"><br>
