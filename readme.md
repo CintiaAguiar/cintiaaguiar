@@ -1,6 +1,6 @@
-### Oie, muito prazer, sou a Cintia Aguiar!!
+### Oies
 
-- 🔭 Estou em transição de carreira, atualmente sou coordenadora pedagógica.
+- 🔭 Estou buscando uma transição de carreira para área de dados, mas atualmente sou coordenadora pedagógica.
 - 🌱 Estudando Data Analytics e Python.
 - 😄 Pronomes: ela/dela
 
